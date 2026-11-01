@@ -1,0 +1,12 @@
+.{
+    .name = .pcsc,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.17.0",
+    .fingerprint = 0xd043102e293bb980,
+    .paths = .{
+        "build.zig.zon",
+        "build.zig",
+        "lib",
+        "test",
+    },
+}
